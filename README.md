@@ -4,6 +4,6 @@
 
 **HTML**
 
-<img src=mouse.jpg width=400/>
+<img src=mouse.jpg width=500/>
 
 # fork-me
