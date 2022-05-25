@@ -1,3 +1,9 @@
-  <img src=cat.jpg width=200/>
-  <img src=mouse.jpg width=200/>
+**Markdown**
+
+![alt text](cat.jpg)
+
+**HTML**
+
+<img src=mouse.jpg width=200/>
+
 # fork-me
